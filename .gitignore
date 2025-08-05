@@ -1,0 +1,15 @@
+PORT
+NODE_ENV
+DEV_USERNAME
+DEV_password
+DEV_database
+DEV_Host
+DEV_PORT
+secretkey
+
+REDIS_HOST
+REDIS_PORT
+REDIS_PASSWORD
+REDIS_DB
+package-lock.json
+
